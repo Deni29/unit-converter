@@ -33,10 +33,10 @@ A fast, lightweight, and beautiful unit converter with dark mode support. Zero d
 ## 📸 Screenshots
 
 ### Light Mode
-![](<img width="1907" height="901" alt="Captura de ecrã 2025-11-29 120417" src="https://github.com/user-attachments/assets/06bd33ae-e926-43c7-bc63-493aba6cdcde" />) <!-- Add screenshot -->
+![Light Mode](https://github.com/user-attachments/assets/06bd33ae-e926-43c7-bc63-493aba6cdcde) <!-- Add screenshot -->
 
 ### Dark Mode
-![](<img width="1903" height="897" alt="Captura de ecrã 2025-11-29 120437" src="https://github.com/user-attachments/assets/9631b240-bc78-4f57-a739-8d8dccd7ba85" />) <!-- Add screenshot -->
+![Dark Mode](https://github.com/user-attachments/assets/9631b240-bc78-4f57-a739-8d8dccd7ba85) <!-- Add screenshot -->
 
 ## 🛠️ Installation
 
